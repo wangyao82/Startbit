@@ -1728,7 +1728,7 @@ namespace startbit {
     }
 	
     const MP3_I2C_ADDR = 0x7B;
-    const MP3_PLAY_NUM_ADDR = 1;
+    const MP3_PLAY_NUM_ADDR = 3;
     const MP3_PLAY_ADDR = 5;
     const MP3_PAUSE_ADDR = 6;
     const MP3_PREV_ADDR = 8;
