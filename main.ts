@@ -1328,7 +1328,7 @@ namespace startbit {
             distance = distanceBak;
         }
         distanceBak = d;
-        return Math.round(distance * 10 / 6 / 58);
+        return Math.round(distance / 58);
     }
 
     /**
