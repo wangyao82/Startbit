@@ -1,6 +1,6 @@
 # startbit
 
-Blocks for Hiwonder startbit
+Blocks for startbit
 ## License
 
 MIT
@@ -11,6 +11,6 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-startbit=github:LOBOT-ROBOT/Startbit
+startbit=github:wangyao82/Startbit
 ```
 
